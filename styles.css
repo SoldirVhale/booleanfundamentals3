@@ -1,0 +1,25 @@
+header {
+    background-color: lightgrey;
+    border-bottom: 2px solid orange;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+}
+
+h2 {
+    color: orange;
+}
+
+h3 {
+    font-style: italic;
+}
+
+main {
+    margin-left: 1vw;
+}
+
+footer {
+    border-top: 2px solid peru;  
+}
